@@ -16,14 +16,14 @@
     
   
 }
-.content1{
+.con1{
     margin:15px auto;
     max-width: 400px;
     background: #ffd;
     border:5px  dashed #F4A460;
     padding:1.5em;
 }
-.content2{
+.con2{
     width:25em;
     border-top:  10px double darkslategray;
     border-bottom:  10px double darkslategray;
@@ -35,7 +35,7 @@
     margin-bottom: 20px ;
 
 }
-.content3{
+.con3{
    
 
     margin: 2em 150px 1em 500px;
